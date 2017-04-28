@@ -17,7 +17,7 @@ use constant CONS_PASS =>'';
 use constant CONS_PATH_OUTPUT=>'/backups/backups/mysql/';
 ```
 
-## Schedule Tasks on Linux (usin Crontab)
+## Schedule Tasks on Linux (using Crontab)
 Do the following command in your terminal console.
 ```
 sudo crontab -e
